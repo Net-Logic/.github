@@ -1,4 +1,6 @@
-<a href="https://www.netlogic.fr"><img src="netlogic-banner.png" alt="Net Logic - Dolibarr Preferred Partner" width="675" height="130"></a>
+<p align="center">
+  <a href="https://www.netlogic.fr"><img src="netlogic-banner.png" alt="Net Logic - Dolibarr Preferred Partner" width="675" height="130"></a>
+</p>
 
 **Net-Logic** builds, integrates and maintains [Dolibarr ERP CRM](https://www.dolibarr.org) for companies, and publishes Dolibarr modules on [DoliStore](https://www.dolistore.com). Based in Noisy-le-Grand, France.
 
