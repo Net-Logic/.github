@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | **Doli 365** | Dolibarr emails through Microsoft 365, mail collection, Outlook calendar and contact sync | [Docs](https://wiki.netlogic.fr/Doli_365) · [DoliStore](https://www.dolistore.com/product.php?id=647) |
 | **Office Editor** | Edit ODT, DOCX, XLSX, PPTX… documents in Dolibarr with the real LibreOffice, right in the browser | [Docs](https://wiki.netlogic.fr/Office_Editor) · [DoliStore](https://www.dolistore.com/product.php?id=3710) |
-| **Order to suppliers** | Purchase orders and supplier price requests from a validated sales order, linked line by line, with stock and kits | [Docs](https://wiki.netlogic.fr/Commander_aux_fournisseurs) |
+| **Order to suppliers** | Purchase orders and supplier price requests from a validated sales order, linked line by line, with stock and kits | [Docs](https://wiki.netlogic.fr/Commander_aux_fournisseurs) · [DoliStore](https://www.dolistore.com/product.php?id=3707) |
 | **DoliDocuSign** | Proposals, orders, contracts and more signed with DocuSign, the signed PDF stored back | [Docs](https://wiki.netlogic.fr/Docusign) · [DoliStore](https://www.dolistore.com/product.php?id=845) |
 | **Email Template Manager** | Default sender, recipients and template in the Dolibarr email form | [Docs](https://wiki.netlogic.fr/Email_Template_Manager) · [DoliStore](https://www.dolistore.com/product.php?id=807) |
 | **Global Invoice Reminder** | One reminder email with all the unpaid invoices of a customer and their PDF | [Docs](https://wiki.netlogic.fr/Relance_Facture_Globale) · [DoliStore](https://www.dolistore.com/product.php?id=792) |
